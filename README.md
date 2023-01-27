@@ -7,3 +7,7 @@ Enlace a repositorio de JOrge: [Enlace](./Jorge/ejercicio1.md)
 
 ## Link al Markdown de Javier
 Markdown de Javier [here](./Javier/JavierDelgado.md) 
+
+## Link al Markdown de Alvaro
+Markdown Álvaro [enlance directorio](./directorio_alvaro/resumen_alvaro.md)
+
